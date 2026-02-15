@@ -34,8 +34,8 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "preview_id": "ef93d42dc4b34969bab404d2e80f8dd3",
-      "id": "ef93d42dc4b34969bab404d2e80f8dd3" // IMPORTANT: Change this to your KV namespace ID
+      "preview_id": "2138f886e1eb4ccf9c2e91eef3b29d15",
+      "id": "2138f886e1eb4ccf9c2e91eef3b29d15" // IMPORTANT: Change this to your KV namespace ID
     }
   ],
   "triggers": {
