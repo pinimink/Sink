@@ -37,7 +37,7 @@ const form = useForm({
     title: props.link.title ?? '',
     description: props.link.description ?? '',
     image: props.link.image ?? '',
-    cloaking: props.link.cloaking ?? false,
+    cloaking: props.link.cloaking ?? true,
     redirectWithQuery: props.link.redirectWithQuery ?? true,
     password: props.link.password ?? '',
   } satisfies LinkFormData,
